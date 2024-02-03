@@ -1,5 +1,5 @@
-matplotlib==3.7.4
-pandas==2.0.3
+matplotlib
+pandas
 psutil==5.8.0
 schedule==1.1.0
 WMI==1.5.1
